@@ -1,0 +1,22 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+._hedaer input {
+	width: 100%;
+	background: #fff;
+	border: 1px solid #2222;
+	padding: 10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	color: #222;
+}
+._box__area {
+	width: 100%;
+	padding: 15px;
+}
+._box__area h3 {
+	font-size: 18px;
+	font-weight: 600;
+}
+._box__area p {
+	font-size: 14px;
+}

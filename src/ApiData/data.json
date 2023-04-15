@@ -1,0 +1,15 @@
+{
+    "countryList":[
+    {"id":1,"name":"Afghanistan","capital":"Kabul"},
+    {"id":2,"name":"Albania","capital":"Tirana"},
+    {"id":3,"name":"Algeria","capital":"Algiers"},
+    {"id":4,"name":"Andorra","capital":"Andorra la Vella"},
+    {"id":5,"name":"Angola","capital":"Luanda"}
+],
+"currentPage":"1",
+"totalPages":4,
+"countryListDetails":[
+    {"id":2,"name":"Albania","population":"2.9 million","capital":"Tirana","currency":"Albanian lek","isocode":"AL","flagimage":"https://restcountries.com/data/alb.svg","description":"Albania is a country in Southeast Europe on the Adriatic and Ionian Seas. It shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, Greece to the south and maritime borders with Greece, Montenegro and Italy to the west."}
+]
+}
+
